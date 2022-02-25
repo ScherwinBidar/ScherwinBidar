@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ScherwinBidar
-- 👀 I’m interested in Java, Javascript & Python
-- 🌱 I’m currently learning Java, Javascript, Python & Web Development
-- 💞️ I’m looking to collaborate on open Software and projects that include Web Development
+- 👋 Hi, I’m @ScherwinBidar, a Computer Science Student & Neu Fische Bootcamp member
+- 👀 I’m interested in following Programming Languages: Javascript, HTML, CSS & Python
+- 🌱 I’m interested in Full Stack Web Development & Ethical Hacking
+- 💞️ I’m looking to collaborate on Web Development & Cybersecurity Projects
 - 📫 You can reach me with that : scherwin1992@outlook.de
