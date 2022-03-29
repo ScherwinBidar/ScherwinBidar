@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ScherwinBidar, a Computer Science Student & Neu Fische Bootcamp member
 - 👀 I’m interested in following Programming Languages: Javascript, HTML, CSS & Python
-- 🌱 I’m interested in Full Stack Web Development & Ethical Hacking
-- 💞️ I’m looking to collaborate on Web Development & Cybersecurity Projects
+- 🌱 I’m interested in Full Stack Web Development 
+- 💞️ I’m looking to collaborate on Web Development 
 - 📫 You can reach me with that : scherwin1992@outlook.de
