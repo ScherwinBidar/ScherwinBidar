@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ScherwinBidar, a Computer Science Student & Neu Fische Bootcamp graduate
 - 👀 I’m interested in following Languages & Frameworks: React, Javascript, Java, Python
-- 🌱 I’m interested in Full Stack Web Development 
-- 💞️ I’m looking to collaborate on Web Development 
+- 🌱 I’m interested in Full Stack Web Development & Server Administration
+- 💞️ I’m looking to collaborate on Web Development & Server/Cloud Administration
 - 📫 You can reach me with that : scherwin1992@outlook.de
